@@ -6,5 +6,4 @@ My name is Isis Duarte and I'm a systems analysis and development student. :woma
 
 I also have a degree in nursing and a technical course in environmental control, but at the moment I seek to explore new technologies and all the magic that compose them. Besides coding, I also enjoy playing video games, watching Korean dramas and playing with my cats.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isis-duarte)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isis-duarte)
