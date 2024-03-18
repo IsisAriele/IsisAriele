@@ -1,6 +1,6 @@
-<img alt="cat coding" width="150px" src="images/laptop.gif" align="right" style="margin-left: 10px">
+<h1>Hello, welcome to my profile👋</h1>
 
-## Hello, welcome to my profile!👋
+<img alt="cat coding" width="150px" src="images/laptop.gif" align="right" style="margin-left: 10px">
 
 My name is Isis Duarte and I'm a systems analysis and development student. :woman_technologist:
 
